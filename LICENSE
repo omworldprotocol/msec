@@ -1,0 +1,9 @@
+MSEC licensing scope (proposed initial repository policy)
+
+README.md, CONTRIBUTING.md, ATTRIBUTION.md and all prose/specifications under docs/ are licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0). Full text: LICENSE-DOCS.
+
+Future source code and runnable implementations are licensed under Apache License 2.0 unless a specific third-party notice states otherwise. Full text: LICENSE-CODE. No implementation is included in the initial scaffold.
+
+Contributors retain copyright in their contributions. Inbound contributions use the applicable outbound license. Third-party materials retain their own notices and licenses.
+
+No rights to upstream names, logos, trademarks or visual identity are granted. No upstream brand assets are included.
