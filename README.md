@@ -1,6 +1,6 @@
 # MSEC
 
-MSEC is a proposed independent research subproject in the OM World organization, with a separate repository and project scope.
+MSEC is an independent research subproject in the [OM World](https://github.com/omworldprotocol/om-world) organization, with a separate repository and project scope.
 
 Initial scope: document the project's remit, contribution process, provenance requirements, and relationship to OM World. Repository setup establishes no scientific findings, measured performance, or validated capabilities.
 
